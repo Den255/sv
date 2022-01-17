@@ -34,12 +34,6 @@ nav ul li:hover ul {
 
 
 
-
-
-
-
-
-
 .divTable{
 	display:table;
 	width: 100%;
@@ -82,7 +76,7 @@ a:active {
 	border:5px solid #ffff00;
 	margin: 20px;
 }
-/.divTable{
+.divTable{
 	display: table;
 	width: 100%;
 }
@@ -113,18 +107,14 @@ a:active {
 }
 
 .card {
-	padding: 2
-	margin-right:0 30;
+	padding: 2;
+	margin-right: 0 30;
 	background: #ffebcd;
-	
+}
 
-
-
-
-
-
-
-
-
-
-
+#left-menu{
+	width: 100%;
+}
+#content{
+	background: white;
+}
